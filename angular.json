@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "autapp"
+    }
+  },
+  "defaultProject": "autapp",
+  "cli": {
+    "analytics": false
+  }
 }
